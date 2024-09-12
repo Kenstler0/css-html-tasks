@@ -6,12 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <ul>
-        <li>red</li>
-        <li>yellow</li>
-        <li>green</li>
-        <li>blue</li>
-        <li>black</li>
-    </ul>
+    <ol>
+        <li>Nick</li>
+        <li>Lohn</li>
+        <li>Mary</li>
+        <li>Jane</li>
+        <li>Alex</li>
+    </ol>
 </body>
 </html>
