@@ -6,12 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <ol>
-        <li>Nick</li>
-        <li>Lohn</li>
-        <li>Mary</li>
-        <li>Jane</li>
-        <li>Alex</li>
-    </ol>
+    <a href="https://code.mu/ru/markup/book/prime/html/links/">code.mu</a>
+    <a href="https://www.youtube.com/">youtube.com</a>
+    <a href="https://ya.ru/?utm_referrer=https%3A%2F%2Fwww.google.com%2F">yandex.ru</a>
 </body>
 </html>
