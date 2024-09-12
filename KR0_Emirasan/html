@@ -6,11 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Heading h1</h1>
-    <h2>Heading h2</h2>
-        <p> Абзац с текстом</p>
-    <h2>Heading h2</h2>
-        <p> Абзац с текстом</p>
-        <p> Абзац с текстом</p>
+    <p>
+        This is regular text and this is <b>bold</b> text.
+    </p>
 </body>
 </html>
